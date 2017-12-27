@@ -1,0 +1,8 @@
+baseurl = "http://veronicaray.com/"
+languageCode = "en-us"
+title = "Nerdonica"
+theme = "ananke"
+publishDir = "docs"
+
+[params]
+  description = "Mistress of mutability, method swizzling and metaprogramming."
