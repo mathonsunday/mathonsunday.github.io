@@ -4,5 +4,9 @@ title = "Nerdonica"
 theme = "ananke"
 publishDir = "docs"
 
+SectionPagesMenu = "main"
+
 [params]
-  description = "Mistress of mutability, method swizzling and metaprogramming."
+  twitter = "https://twitter.com/nerdonica"
+  linkedin = "https://www.linkedin.com/in/veronicalray/"
+  featured_image = ""
