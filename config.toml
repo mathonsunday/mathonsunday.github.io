@@ -1,5 +1,6 @@
 baseurl = "http://veronicaray.com/"
 languageCode = "en-us"
+description = "Veronica Ray's blog"
 title = "Nerdonica"
 theme = "ananke"
 publishDir = "docs"
