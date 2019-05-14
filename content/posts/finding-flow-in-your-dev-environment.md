@@ -1,7 +1,6 @@
 ---
 title: "Finding Flow in Your Dev Environment"
 date: 2018-10-29T19:46:33-04:00
-draft: true
 ---
 
 Before my last day at LinkedIn I went to the Apple store in Grand Central to buy a new laptop. In my five years as a professional software developer I never had a personal laptop. 

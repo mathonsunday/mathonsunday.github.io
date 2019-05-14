@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://veronicaray.com/posts/finding-flow-in-your-dev-environment/</loc>
+    <lastmod>2018-10-29T19:46:33-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://veronicaray.com/posts/my-method/</loc>
     <lastmod>2016-07-05T11:29:20-04:00</lastmod>
   </url>
@@ -22,13 +27,13 @@
   
   <url>
     <loc>http://veronicaray.com/</loc>
-    <lastmod>2016-07-05T11:29:20-04:00</lastmod>
+    <lastmod>2018-10-29T19:46:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://veronicaray.com/posts/</loc>
-    <lastmod>2016-07-05T11:29:20-04:00</lastmod>
+    <lastmod>2018-10-29T19:46:33-04:00</lastmod>
     <priority>0</priority>
   </url>
   
