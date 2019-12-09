@@ -22,13 +22,13 @@ I bought a Switch Lite because I wanted something better but wasn't sure how lon
 
 Kill. Die. Learn. Repeat.
 
-I've been seeing a therapist weekly for the last two years. She knew that I didn't think progress on my blood phobia was possible, and didn't push me on it. Dead Cells was not just a breakthrough for my blood phobia, it also made it easier to bring up past traumas. This game is brutal, but it captures my worldview faithfully. Constant threats, no chance to sit down or truely rest, no time to dwell on the past. In the game you get to pick up to three mutations that give you buffs. I remember crying "I want to live in a world like this, where your mutations are good and you want more of them." 
+I've been seeing a therapist weekly for the last two years. She knew that I didn't think progress on my blood phobia was possible, and didn't push me on it. Dead Cells was not just a breakthrough for my blood phobia, it also made it easier to bring up past traumas. This game is brutal, but it captures my worldview faithfully. Constant threats, no chance to sit down, no time to dwell on the past. In the game you g pick up to three mutations that give you buffs. I remember crying "I want to live in a world like this, where your mutations are good and you want more of them." 
 
-There are so many stories about people with dark backgrounds and mutations doing great things. They are a cliche. But I never got to experience those stories. I was seeing myself for the first time in a piece of media and it was glorious. 
+There are so many stories about people with dark backgrounds and mutations doing great things. They are a cliche. But I never got to experience those stories. I was seeing myself for the first time and it was glorious. 
 
 Developing A Strategy
 
-
+Dead Cells is extremely difficult and uses permanent death. If you die you have to start over from the beinning. I was tempted to spend all my free time trying to beat it, but I knew that victory would be hollow. I got all the exposure therapy benefit of Dead Cells and needed to move on to something else. In exposure therapy you need to be in control and ramp up the exposure. What was the next step after Dead Cells? 
 
 
 
