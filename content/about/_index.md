@@ -4,7 +4,7 @@ description: ""
 featured_image: ''
 ---
 
-I'm an experied mobile technical lead and international conference speaker. I love working in high growth companies in complex domains. 
+I'm an experied mobile technical lead and international conference speaker. I love working in high growth companies on complex domains. 
 
 I'm currently a Senior Software Engineer at [Included Health](https://includedhealth.com/.) Previously I was at [Compass](https://www.compass.com/), which I joined pre-IPO. 
 
