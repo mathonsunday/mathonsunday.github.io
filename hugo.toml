@@ -1,7 +1,7 @@
 baseurl = "https://veronicaray.com/"
 languageCode = "en-us"
 title = "Nerdonica"
-theme = "ananke"
+theme = "hyde"
 publishDir = "docs"
 
 SectionPagesMenu = "main"
