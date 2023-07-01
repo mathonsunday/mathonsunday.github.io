@@ -1,13 +1,12 @@
 baseurl = "http://veronicaray.com/"
 languageCode = "en-us"
+title = "Nerdonica"
 theme = "ananke"
 publishDir = "docs"
-title = "Nerdonica"
 
 SectionPagesMenu = "main"
 
 [params]
   description = "Veronica Ray's blog"
-  twitter = "https://twitter.com/nerdonica"
   linkedin = "https://www.linkedin.com/in/veronicalray/"
   featured_image = ""
