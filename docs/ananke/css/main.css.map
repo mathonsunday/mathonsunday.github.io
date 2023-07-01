@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/veronicaray/Library/Mobile Documents/com~apple~CloudDocs/quickstart",
+	"sourceRoot": "/Users/veronicaray/Library/Mobile Documents/com~apple~CloudDocs/blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
