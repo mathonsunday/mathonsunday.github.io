@@ -37,13 +37,17 @@ function calculateReadingTime(content: string): number {
   return Math.ceil(wordCount / wordsPerMinute);
 }
 
-export default function PostPage({ params }: { params: { slug: string } }) {
-  const slug = params.slug.replace(/\/$/, ""); // Remove trailing slash if present
-  console.log("Looking for post with slug:", slug, "available posts:", getAllPosts().map(p => p.slug));
+export default async function PostPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const { slug: rawSlug } = await params;
+  const slug = rawSlug.replace(/\/$/, "");
+
   const post = getPostBySlug(slug);
 
   if (!post) {
-    console.log("Post not found for slug:", slug);
     notFound();
   }
 
