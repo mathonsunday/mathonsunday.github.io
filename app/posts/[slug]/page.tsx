@@ -88,11 +88,12 @@ export default function PostPage({ params }: { params: { slug: string } }) {
       </div>
 
       {/* Post Content */}
-      <Card className="prose prose-invert max-w-none">
+      <Card>
         <div
-          className="text-[#e8e6e3] leading-relaxed space-y-4"
-          dangerouslySetInnerHTML={{ __html: post.content }}
-        />
+          className="text-[#e8e6e3] leading-relaxed space-y-4 whitespace-pre-wrap"
+        >
+          {post.content}
+        </div>
       </Card>
 
       {/* Navigation */}
