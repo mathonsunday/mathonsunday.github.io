@@ -7,6 +7,7 @@ export const dynamicParams = false;
 
 export function generateStaticParams() {
   const posts = getAllPosts();
+  console.log("Generated static params:", posts.map(p => p.slug));
   return posts.map((post) => ({
     slug: post.slug,
   }));
@@ -37,9 +38,12 @@ function calculateReadingTime(content: string): number {
 }
 
 export default function PostPage({ params }: { params: { slug: string } }) {
-  const post = getPostBySlug(params.slug);
+  const slug = params.slug.replace(/\/$/, ""); // Remove trailing slash if present
+  console.log("Looking for post with slug:", slug, "available posts:", getAllPosts().map(p => p.slug));
+  const post = getPostBySlug(slug);
 
   if (!post) {
+    console.log("Post not found for slug:", slug);
     notFound();
   }
 
