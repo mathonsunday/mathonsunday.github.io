@@ -5,11 +5,16 @@ import { Card } from "@/components/design-system/Card";
 
 export const dynamicParams = false;
 
-export async function generateStaticParams() {
-  const posts = getAllPosts();
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
+export function generateStaticParams() {
+  try {
+    const posts = getAllPosts();
+    return posts.map((post) => ({
+      slug: post.slug,
+    }));
+  } catch (error) {
+    console.error("Error generating static params:", error);
+    return [];
+  }
 }
 
 export async function generateMetadata({
