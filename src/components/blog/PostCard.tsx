@@ -17,7 +17,7 @@ export function PostCard({
   slug,
 }: PostCardProps) {
   return (
-    <Link href={`/posts/${slug}`} className="group">
+    <Link href={`/posts/${slug}/`} className="group">
       <Card glow className="h-full">
         <div className="flex items-start justify-between mb-3">
           <time className="text-sm text-[#4dd0e1] font-semibold tracking-[0.15em]">
